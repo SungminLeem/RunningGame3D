@@ -26,10 +26,11 @@ The goal of this game jam entry was to prototype a functional endless runner or 
 
 ## How to Play
 
-[You can add simple instructions here if you plan to host the game, for example:]
-1. Download the executable file from the Releases tab.
-2. Unzip the file and run `RunnerGame.exe`.
-3. Use the spacebar to jump and avoid obstacles!
+~~ [You can add simple instructions here if you plan to host the game, for example:] ~~
+1. ~~Download the executable file from the Releases tab.~~ 
+2. ~~Unzip the file and run `RunnerGame.exe`.~~
+3. ~~Use the spacebar to jump and avoid obstacles!~~
+   **only sound tracks are available 01/16/2026**
 
 ## Credits
 
